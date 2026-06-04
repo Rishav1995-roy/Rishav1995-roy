@@ -56,7 +56,7 @@ open_to: founding-engineer roles, collaborations, and bold problems
 
 ### 🚀 Latest projects
 
-> Auto-updated by a GitHub Action. Public repos only - private work stays private.
+> Auto-updated by a GitHub Action.
 
 
 
