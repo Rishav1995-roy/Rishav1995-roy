@@ -1,0 +1,56 @@
+name: Update README
+
+# Regenerates the "Latest projects" section:
+#   - on every push to main
+#   - every 6 hours (picks up new repos created elsewhere)
+#   - manually via the Actions tab
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'README.md' # avoid reacting to the bot's own commit
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate projects section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: Rishav1995-roy
+          # Optional: surface private repos as text-only (no links). Requires a PAT
+          # named GH_PAT with `repo` scope added under Settings → Secrets → Actions.
+          GH_PAT: ${{ secrets.GH_PAT }}
+          SHOW_PRIVATE: 'false'
+          MAX_PROJECTS: '6'
+        run: node scripts/update-readme.js
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(readme): auto-update latest projects [skip ci]"
+            git push
+          fi

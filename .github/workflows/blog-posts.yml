@@ -1,0 +1,26 @@
+name: Update Medium posts
+
+# Pulls the latest Medium articles into the README between the
+# <!-- BLOG-POST-LIST:START --> / <!-- BLOG-POST-LIST:END --> markers.
+on:
+  schedule:
+    - cron: '0 */12 * * *' # twice a day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://medium.com/feed/@debroyrishab'
+          max_post_count: 5
+          template: '- 📝 [$title]($url)'
+          commit_message: 'chore(readme): refresh latest Medium posts [skip ci]'
