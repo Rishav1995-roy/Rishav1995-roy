@@ -1,0 +1,35 @@
+name: Profile Summary Cards
+
+# Generates static GitHub stat cards (profile details, stats, languages,
+# productive time) and commits them to ./profile-summary-card-output/.
+# Because the images live in this repo, they're served by GitHub and never
+# rate-limit or break (unlike live third-party card services).
+on:
+  schedule:
+    - cron: '0 18 * * *' # once a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'README.md'
+      - 'profile-summary-card-output/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/profile-summary-cards@master
+        with:
+          USERNAME: Rishav1995-roy
+          THEME: 2077
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

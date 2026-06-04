@@ -87,23 +87,14 @@ open_to: founding-engineer roles, collaborations, and bold problems
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 **Backend &amp; Web**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -130,16 +121,6 @@ open_to: founding-engineer roles, collaborations, and bold problems
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-**Fintech &amp; Security**
-
-<p>
-  <img src="https://img.shields.io/badge/SEBI%20Compliance-0F2027?style=for-the-badge&logoColor=white" alt="SEBI"/>
-  <img src="https://img.shields.io/badge/KYC%20%2F%20PAN-203A43?style=for-the-badge&logoColor=white" alt="KYC"/>
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
-  <img src="https://img.shields.io/badge/Payments%20%26%20Mandates-2C5364?style=for-the-badge&logoColor=white" alt="Payments"/>
-  <img src="https://img.shields.io/badge/Encryption%20%26%20CSRF-203A43?style=for-the-badge&logoColor=white" alt="Security"/>
 </p>
 
 ---
@@ -218,17 +199,24 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 ### 📊 GitHub in numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishav1995-roy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4FC3DC&icon_color=4FC3DC&text_color=c9d1d9&bg_color=0d1117" alt="github stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav1995-roy&layout=compact&langs_count=8&hide_border=true&title_color=4FC3DC&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/2077/3-stats.svg" alt="stats"/>
+  <img width="49%" src="./profile-summary-card-output/2077/4-productive-time.svg" alt="productive time"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="repos per language"/>
+  <img width="49%" src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="most commit language"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav1995-roy&hide_border=true&background=0d1117&stroke=4FC3DC&ring=4FC3DC&fire=4FC3DC&currStreakLabel=4FC3DC&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishav1995-roy&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-</p>
+<p align="center"><sub>📌 The cards above are generated daily by a GitHub Action and committed to this repo — served from GitHub itself, so they never rate-limit or break.</sub></p>
 
 ---
 
