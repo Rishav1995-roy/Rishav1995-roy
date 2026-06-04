@@ -1,0 +1,3 @@
+# The profile README is hand-crafted HTML+Markdown. A formatter will flatten
+# the badges/cards and strip the HTML comment markers the GitHub Action needs.
+README.md

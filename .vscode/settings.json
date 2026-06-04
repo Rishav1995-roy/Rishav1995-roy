@@ -1,0 +1,10 @@
+{
+  "// note": "README.md is intentionally hand-written HTML+Markdown. Do not auto-format it.",
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "files.associations": {
+    "README.md": "markdown"
+  }
+}
