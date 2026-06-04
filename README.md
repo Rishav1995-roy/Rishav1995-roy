@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/Rishav1995-roy?tab=followers"><img src="https://img.shields.io/github/followers/Rishav1995-roy?label=Followers&style=for-the-badge&color=2C5364&labelColor=0F2027" alt="followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Rishav1995-roy&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rishav1995-roy.Rishav1995-roy&style=for-the-badge&color=2C5364&title=PROFILE+VIEWS" alt="profile views"/>
   <a href="https://github.com/Rishav1995-roy?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Builder-2C5364?style=for-the-badge&labelColor=0F2027" alt="open source"/></a>
 </p>
 
 <p align="center">
   <a href="https://medium.com/@debroyrishab">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3DC&center=true&vCenter=true&width=680&lines=Founder+%26+builder+%C2%B7+fintech+%2B+AI;Building+Hasta+%E2%80%94+an+AI+spiritual+companion+for+Bharat;Sole+architect+of+a+500K%2B+user+investing+app;SEBI-compliant+%C2%B7+real-money+%C2%B7+production-grade;Flutter+%C2%B7+Python+%C2%B7+React+%C2%B7+Claude+AI;I+turn+ambiguous+ideas+into+shipped+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3DC&center=true&vCenter=true&width=620&lines=Founder+%26+builder+%C2%B7+fintech+%2B+AI;Building+Hasta+%E2%80%94+an+AI+spiritual+app;Sole+architect+of+a+500K%2B+user+fintech+app;SEBI-compliant+%C2%B7+real-money+%C2%B7+at+scale;Flutter+%C2%B7+Python+%C2%B7+React+%C2%B7+Claude+AI;Turning+ambiguous+ideas+into+shipped+products" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ name: Rishav Deb Roy
 role: Founding Engineer · Senior Product Engineer
 domain: [fintech, AI platforms, 0-to-1 products]
 location: Bengaluru, India
-company: Nuarch Fintech
+company: Neukosh Fintech
 experience: 7+ years
 shipped: "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
 building: "FIA - AI institutional research platform (React 19, strict TS, 70+ tests)"
