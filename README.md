@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://medium.com/@debroyrishab">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3DC&center=true&vCenter=true&width=660&lines=Founding+engineer+%C2%B7+fintech+%2B+AI;Sole+architect+of+a+500K%2B+user+investing+app;SEBI-compliant+%C2%B7+real-money+%C2%B7+production-grade;Flutter+%C2%B7+Python+%C2%B7+React+%C2%B7+AI;I+turn+ambiguous+ideas+into+shipped+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3DC&center=true&vCenter=true&width=680&lines=Founder+%26+builder+%C2%B7+fintech+%2B+AI;Building+Hasta+%E2%80%94+an+AI+spiritual+companion+for+Bharat;Sole+architect+of+a+500K%2B+user+investing+app;SEBI-compliant+%C2%B7+real-money+%C2%B7+production-grade;Flutter+%C2%B7+Python+%C2%B7+React+%C2%B7+Claude+AI;I+turn+ambiguous+ideas+into+shipped+products" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,6 +42,21 @@ open_to: founding-engineer roles, collaborations, and bold problems
 ---
 
 ### 🏗️ What I'm building
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🪷 <a href="https://hastaai.in">Hasta</a> &nbsp;<sub><i>— your hand holds your destiny</i></sub></h3>
+      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families — AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. Live on iOS & Android.
+      <br/><br/>
+      <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Next.js</code> · <code>AWS</code> · <code>Razorpay</code></sub>
+      <br/><br/>
+      <a href="https://hastaai.in"><img src="https://img.shields.io/badge/Live-hastaai.in-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="hastaai.in"/></a>
+    </td>
+  </tr>
+</table>
+
+**Also building & shipped**
 
 <table>
   <tr>
@@ -90,7 +105,17 @@ open_to: founding-engineer roles, collaborations, and bold problems
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+**AI &amp; LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude%20Vision-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Vision"/>
+  <img src="https://img.shields.io/badge/LLM%20Apps%20%26%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Swiss%20Ephemeris-0F2027?style=for-the-badge&logoColor=white" alt="Swiss Ephemeris"/>
 </p>
 
 **Data &amp; Cloud**
