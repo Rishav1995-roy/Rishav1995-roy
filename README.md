@@ -197,17 +197,17 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 ### 📊 GitHub in numbers
 
 <p align="center">
-  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="profile details"/>
+  <img src="https://raw.githubusercontent.com/Rishav1995-roy/Rishav1995-roy/cards/profile-summary-card-output/2077/0-profile-details.svg" alt="profile details"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/2077/3-stats.svg" alt="stats"/>
-  <img width="49%" src="./profile-summary-card-output/2077/4-productive-time.svg" alt="productive time"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rishav1995-roy/Rishav1995-roy/cards/profile-summary-card-output/2077/3-stats.svg" alt="stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rishav1995-roy/Rishav1995-roy/cards/profile-summary-card-output/2077/4-productive-time.svg" alt="productive time"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="repos per language"/>
-  <img width="49%" src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="most commit language"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rishav1995-roy/Rishav1995-roy/cards/profile-summary-card-output/2077/1-repos-per-language.svg" alt="repos per language"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rishav1995-roy/Rishav1995-roy/cards/profile-summary-card-output/2077/2-most-commit-language.svg" alt="most commit language"/>
 </p>
 
 <p align="center">

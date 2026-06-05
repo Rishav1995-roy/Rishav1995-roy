@@ -31,6 +31,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Rishav1995-roy
-          BRANCH_NAME: main
+          BRANCH_NAME: cards
           UTC_OFFSET: 5
           AUTO_PUSH: true
