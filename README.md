@@ -127,8 +127,6 @@ open_to: founding-engineer roles, collaborations, and bold problems
 
 ### 🚀 Latest open source
 
-> Auto-updated by a GitHub Action. Public repos only — private work stays private.
-
 <!-- PROJECTS:START -->
 <!-- This section is generated automatically. Do not edit by hand. -->
 
