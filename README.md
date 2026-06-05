@@ -228,13 +228,7 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 
 ### ✍️ Latest from my blog
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 [Why "Good Architecture" Doesn't Guarantee a Good Product](https://medium.com/@debroyrishab)
-- 🔥 [What Scaling a Flutter App to 500k+ Users Taught Me About Mobile Engineering](https://medium.com/@debroyrishab)
-- ⚡ [Most Flutter performance problems are actually backend problems](https://medium.com/@debroyrishab)
-- 🧩 [Why I prefer BLoC for large Flutter codebases (and when I don't)](https://medium.com/@debroyrishab)
-- 👀 [I Used to Care About Performance. Now I Care About Perception](https://medium.com/@debroyrishab)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📝 [Why ‘Good Architecture’ Doesn’t Guarantee a Good Product](https://medium.com/@debroyrishab/why-good-architecture-doesn-t-guarantee-a-good-product-8315a12a1225?source=rss-ed14b65382f0------2)- 📝 [I Used to Care About Performance. Now I Care About Perception](https://medium.com/@debroyrishab/i-used-to-care-about-performance-now-i-care-about-perception-c8c0f0fc8e26?source=rss-ed14b65382f0------2)- 📝 [Why Product Thinking Is Uncomfortable for Engineers](https://medium.com/@debroyrishab/why-product-thinking-is-uncomfortable-for-engineers-fa98eb4fb8a6?source=rss-ed14b65382f0------2)- 📝 [The Gap Between Building Features and Building Meaning](https://medium.com/@debroyrishab/the-gap-between-building-features-and-building-meaning-face475fb396?source=rss-ed14b65382f0------2)- 📝 [Why I’m No Longer Excited About Just Scaling Systems](https://medium.com/@debroyrishab/why-im-no-longer-excited-about-just-scaling-systems-fe27960eab86?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
 
 <sub>More on <b><a href="https://medium.com/@debroyrishab">Medium → @debroyrishab</a></b></sub>
 
