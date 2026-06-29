@@ -46,8 +46,8 @@ open_to: founding-engineer roles, collaborations, and bold problems
 <table>
   <tr>
     <td valign="top">
-      <h3>🪷 <a href="https://hastaai.in">Hasta</a> &nbsp;<sub><i>— your hand holds your destiny</i></sub></h3>
-      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families — AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 In active development — launching on iOS & Android.
+      <h3>🪷 <a href="https://hastaai.in">Hasta</a> &nbsp;<sub><i>- your hand holds your destiny</i></sub></h3>
+      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 In active development — launching on iOS & Android.
       <br/><br/>
       <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Next.js</code> · <code>AWS</code> · <code>Razorpay</code></sub>
       <br/><br/>
@@ -68,7 +68,7 @@ open_to: founding-engineer roles, collaborations, and bold problems
     </td>
     <td valign="top" width="33%">
       <h4>🤖 FIA</h4>
-      AI-powered institutional research platform with enterprise-grade security — encrypted tokens, CSRF, 70+ tests.
+      AI-powered institutional research platform with enterprise-grade security - encrypted tokens, CSRF, 70+ tests.
       <br/><br/><sub><code>React 19</code> · <code>TypeScript</code> · <code>AI</code></sub>
     </td>
     <td valign="top" width="33%">
@@ -214,7 +214,7 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav1995-roy&hide_border=true&background=0d1117&stroke=4FC3DC&ring=4FC3DC&fire=4FC3DC&currStreakLabel=4FC3DC&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
 
-<p align="center"><sub>📌 The cards above are generated daily by a GitHub Action and committed to this repo — served from GitHub itself, so they never rate-limit or break.</sub></p>
+<p align="center"><sub>📌 The cards above are generated daily by a GitHub Action and committed to this repo - served from GitHub itself, so they never rate-limit or break.</sub></p>
 
 ---
 
