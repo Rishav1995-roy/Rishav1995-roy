@@ -20,14 +20,14 @@
 ### 🧭 About me
 
 ```yaml
-name: Rishav Deb Roy
-role: Founding Engineer · Senior Product Engineer
-domain: [fintech, AI platforms, 0-to-1 products]
-location: Bengaluru, India
-company: Neukosh Fintech
-experience: 7+ years
-shipped: "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
-building: "FIA - AI institutional research platform (React 19, strict TS, 70+ tests)"
+Name: Rishav Deb Roy
+Role: Founding Engineer · Senior Product Engineer
+Domain: [fintech, AI platforms, 0-to-1 products]
+Location: Bengaluru, India
+Company: Neukosh Fintech
+Exprience: 7+ years
+Shipped: "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
+Building: "FIA - AI institutional research platform (React 19, strict TS, 70+ tests)"
 core_stack: [Flutter, Dart, Python, TypeScript, React, PostgreSQL]
 open_to: founding-engineer roles, collaborations, and bold problems
 ```
