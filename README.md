@@ -32,8 +32,8 @@ core_stack: [Flutter, Dart, Python, TypeScript, React, PostgreSQL]
 open_to: founding-engineer roles, collaborations, and bold problems
 ```
 
-- 🏦&nbsp; **Sole architect & developer of [Koshex](https://github.com/Rishav1995-roy)** — a SEBI-compliant investing app with **500K+ downloads**, handling real-money mutual funds, gold trading, KYC/PAN, Razorpay payments & e-mandate flows.
-- 🤖&nbsp; Currently building **FIA**, an AI-powered institutional research platform — React 19, strict TypeScript, encrypted token storage, CSRF protection, **70+ automated tests**.
+- 🏦&nbsp; **Sole architect & developer of [Koshex](https://github.com/Rishav1995-roy)** - a SEBI-compliant investing app with **500K+ downloads**, handling real-money mutual funds, gold trading, KYC/PAN, Razorpay payments & e-mandate flows.
+- 🤖&nbsp; Currently building **FIA**, an AI-powered institutional research platform - React 19, strict TypeScript, encrypted token storage, CSRF protection, **70+ automated tests**.
 - 📱&nbsp; Designed a **BLoC-based Flutter architecture** that's powered **4+ years** of continuous feature development at scale.
 - 👥&nbsp; Led a team of **6 engineers**; set coding standards, architecture guidelines & performance practices.
 - 🧱&nbsp; I care about **clean architecture**, **security**, **developer experience**, and **systems that scale** without ceremony.
