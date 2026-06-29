@@ -28,8 +28,8 @@ Company: Neukosh Fintech
 Exprience: 7+ years
 Shipped: "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
 Building: "FIA - AI institutional research platform (React 19, strict TS, 70+ tests)"
-core_stack: [Flutter, Dart, Python, TypeScript, React, PostgreSQL]
-open_to: founding-engineer roles, collaborations, and bold problems
+Core Stack: [Flutter, Dart, Python, TypeScript, React, PostgreSQL]
+Open To: founding-engineer roles, collaborations, and bold problems
 ```
 
 - 🏦&nbsp; **Sole architect & developer of [Koshex](https://github.com/Rishav1995-roy)** - a SEBI-compliant investing app with **500K+ downloads**, handling real-money mutual funds, gold trading, KYC/PAN, Razorpay payments & e-mandate flows.
