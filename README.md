@@ -47,7 +47,7 @@ open_to: founding-engineer roles, collaborations, and bold problems
   <tr>
     <td valign="top">
       <h3>🪷 <a href="https://hastaai.in">Hasta</a> &nbsp;<sub><i>- your hand holds your destiny</i></sub></h3>
-      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 In active development — launching on iOS & Android.
+      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 In active development - launching on iOS & Android.
       <br/><br/>
       <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Next.js</code> · <code>AWS</code> · <code>Razorpay</code></sub>
       <br/><br/>
