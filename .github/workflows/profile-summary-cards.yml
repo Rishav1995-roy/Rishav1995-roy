@@ -28,7 +28,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PROFILE_TOKEN = a PAT with `repo` + `read:user` scopes so the cards
+          # can count private-repo contributions. Falls back to the built-in
+          # token (public-only) if the secret isn't set, so nothing breaks.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Rishav1995-roy
           BRANCH_NAME: main
