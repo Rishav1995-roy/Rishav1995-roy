@@ -183,7 +183,7 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 </td>
 </tr></table>
 
-<sub>Last updated: 2026-08-07 · auto-generated from public repositories.</sub>
+<sub>Last updated: 2026-08-08 · auto-generated from public repositories.</sub>
 <!-- PROJECTS:END -->
 
 <p align="center">
