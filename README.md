@@ -47,12 +47,12 @@ Open To: founding-engineer roles, collaborations, and bold problems
   <tr>
     <td valign="top">
       <h3>🪷 <a href="https://hastaai.in">Hasta</a> &nbsp;<sub><i>- your hand holds your destiny</i></sub></h3>
-      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 In active development - launching on iOS & Android.
+      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 Pre-launch, Android first (iOS to follow) - join early access at hastaai.in.
       <br/><br/>
-      <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Next.js</code> · <code>AWS</code> · <code>Razorpay</code></sub>
+      <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Next.js</code> · <code>Railway</code> · <code>Cloudflare R2</code> · <code>Razorpay</code></sub>
       <br/><br/>
       <a href="https://hastaai.in"><img src="https://img.shields.io/badge/Visit-hastaai.in-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="hastaai.in"/></a>
-      <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%A7-203A43?style=for-the-badge" alt="status building"/>
+      <img src="https://img.shields.io/badge/Status-Pre--Launch%20%F0%9F%9A%80-203A43?style=for-the-badge" alt="status pre-launch"/>
     </td>
   </tr>
 </table>
