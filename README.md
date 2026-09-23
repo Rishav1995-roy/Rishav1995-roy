@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://medium.com/@debroyrishab">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3DC&center=true&vCenter=true&width=620&lines=Founder+%26+builder+%C2%B7+fintech+%2B+AI;Building+Hasta+%E2%80%94+an+AI+spiritual+app;Sole+architect+of+a+500K%2B+user+fintech+app;SEBI-compliant+%C2%B7+real-money+%C2%B7+at+scale;Flutter+%C2%B7+Python+%C2%B7+React+%C2%B7+Claude+AI;Turning+ambiguous+ideas+into+shipped+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4FC3DC&center=true&vCenter=true&width=620&lines=Founder+%26+builder+%C2%B7+fintech+%2B+AI;Hasta+AI+%E2%80%94+now+live+on+Google+Play;Sole+architect+of+a+500K%2B+user+fintech+app;SEBI-compliant+%C2%B7+real-money+%C2%B7+at+scale;Flutter+%C2%B7+Python+%C2%B7+React+%C2%B7+Claude+AI;Turning+ambiguous+ideas+into+shipped+products" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Role: Founding Engineer · Senior Product Engineer
 Domain: [fintech, AI platforms, 0-to-1 products]
 Location: Bengaluru, India
 Company: Neukosh Fintech
-Exprience: 7+ years
+Experience: 7+ years
 Shipped: "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
 Building: "FIA - AI institutional research platform (React 19, strict TS, 70+ tests)"
 Core Stack: [Flutter, Dart, Python, TypeScript, React, PostgreSQL]
@@ -47,12 +47,13 @@ Open To: founding-engineer roles, collaborations, and bold problems
   <tr>
     <td valign="top">
       <h3>🪷 <a href="https://hastaai.in">Hasta</a> &nbsp;<sub><i>- your hand holds your destiny</i></sub></h3>
-      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - AI palm reading (Claude Vision), Kundali generation (Swiss Ephemeris), a 24/7 AI astrologer chat, child-name suggestions, family profiles, and a spiritual library. 🚧 Pre-launch, Android first (iOS to follow) - join early access at hastaai.in.
+      <b>My product, built as founder.</b> An AI-powered Vedic astrology & spiritual guidance app for Indian families - Kundali generation (Swiss Ephemeris), AI palm reading (Claude Vision), <b>Nandini</b> - a 24/7 AI Vedic astrologer chat, tarot readings, marriage matching (Guna Milan), child-name suggestions, daily horoscopes & Panchang, festivals & puja vidhi, mantras, family profiles, and a spiritual library. 🚀 <b>Live on Google Play</b> (Android) - iOS coming soon.
       <br/><br/>
-      <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Next.js</code> · <code>Railway</code> · <code>Cloudflare R2</code> · <code>Razorpay</code></sub>
+      <sub><code>Flutter</code> · <code>FastAPI</code> · <code>Python 3.12</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Claude API</code> · <code>Firebase</code> · <code>Next.js</code> · <code>Railway</code> · <code>Cloudflare R2</code> · <code>Razorpay</code></sub>
       <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=in.hasta"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-2C5364?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
       <a href="https://hastaai.in"><img src="https://img.shields.io/badge/Visit-hastaai.in-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="hastaai.in"/></a>
-      <img src="https://img.shields.io/badge/Status-Pre--Launch%20%F0%9F%9A%80-203A43?style=for-the-badge" alt="status pre-launch"/>
+      <img src="https://img.shields.io/badge/Status-Live%20%F0%9F%9A%80-203A43?style=for-the-badge" alt="status live"/>
     </td>
   </tr>
 </table>
@@ -228,7 +229,12 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 
 ### ✍️ Latest from my blog
 
-<!-- BLOG-POST-LIST:START -->- 📝 [Ganpati Bappa Morya: What Ganesh Chaturthi Teaches Us About Clearing Our Own Obstacles](https://medium.com/@debroyrishab/ganpati-bappa-morya-what-ganesh-chaturthi-teaches-us-about-clearing-our-own-obstacles-0b957da3c6e1?source=rss-ed14b65382f0------2)- 📝 [Why We Built Hasta: Bringing Ancient Wisdom Into Everyday Life](https://medium.com/@debroyrishab/why-we-built-hasta-bringing-ancient-wisdom-into-everyday-life-6d2a6969615e?source=rss-ed14b65382f0------2)- 📝 [What It Means to Build in a Sensitive Domain](https://medium.com/@debroyrishab/what-it-means-to-build-in-a-sensitive-domain-7b411d2b6015?source=rss-ed14b65382f0------2)- 📝 [Why Spiritual Products Need a Different Kind of UX](https://medium.com/@debroyrishab/why-spiritual-products-need-a-different-kind-of-ux-e15d00e374c7?source=rss-ed14b65382f0------2)- 📝 [The Trade-off Between Accuracy and Experience](https://medium.com/@debroyrishab/the-trade-off-between-accuracy-and-experience-560881ad866e?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📝 [Ganpati Bappa Morya: What Ganesh Chaturthi Teaches Us About Clearing Our Own Obstacles](https://medium.com/@debroyrishab/ganpati-bappa-morya-what-ganesh-chaturthi-teaches-us-about-clearing-our-own-obstacles-0b957da3c6e1?source=rss-ed14b65382f0------2)
+- 📝 [Why We Built Hasta: Bringing Ancient Wisdom Into Everyday Life](https://medium.com/@debroyrishab/why-we-built-hasta-bringing-ancient-wisdom-into-everyday-life-6d2a6969615e?source=rss-ed14b65382f0------2)
+- 📝 [What It Means to Build in a Sensitive Domain](https://medium.com/@debroyrishab/what-it-means-to-build-in-a-sensitive-domain-7b411d2b6015?source=rss-ed14b65382f0------2)
+- 📝 [Why Spiritual Products Need a Different Kind of UX](https://medium.com/@debroyrishab/why-spiritual-products-need-a-different-kind-of-ux-e15d00e374c7?source=rss-ed14b65382f0------2)
+- 📝 [The Trade-off Between Accuracy and Experience](https://medium.com/@debroyrishab/the-trade-off-between-accuracy-and-experience-560881ad866e?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
 
 <sub>More on <b><a href="https://medium.com/@debroyrishab">Medium → @debroyrishab</a></b></sub>
 
