@@ -26,13 +26,16 @@ Domain: [fintech, AI platforms, 0-to-1 products]
 Location: Bengaluru, India
 Company: Neukosh Fintech
 Experience: 7+ years
-Shipped: "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
+Shipped:
+  - "Koshex - SEBI-compliant investing app · 500K+ users · real-money txns"
+  - "Hasta AI - AI Vedic astrology app (founder) · live on Google Play"
 Building: "FIA - AI institutional research platform (React 19, strict TS, 70+ tests)"
 Core Stack: [Flutter, Dart, Python, TypeScript, React, PostgreSQL]
 Open To: founding-engineer roles, collaborations, and bold problems
 ```
 
 - 🏦&nbsp; **Sole architect & developer of [Koshex](https://github.com/Rishav1995-roy)** - a SEBI-compliant investing app with **500K+ downloads**, handling real-money mutual funds, gold trading, KYC/PAN, Razorpay payments & e-mandate flows.
+- 🪷&nbsp; **Founder & builder of [Hasta AI](https://hastaai.in)** - an AI-powered Vedic astrology app, **live on Google Play** - Kundali, AI palm reading, Nandini AI astrologer chat, tarot & marriage matching.
 - 🤖&nbsp; Currently building **FIA**, an AI-powered institutional research platform - React 19, strict TypeScript, encrypted token storage, CSRF protection, **70+ automated tests**.
 - 📱&nbsp; Designed a **BLoC-based Flutter architecture** that's powered **4+ years** of continuous feature development at scale.
 - 👥&nbsp; Led a team of **6 engineers**; set coding standards, architecture guidelines & performance practices.
