@@ -233,11 +233,11 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 ### ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 [The Horoscope You Read Every Morning Probably Isn’t Yours](https://medium.com/@debroyrishab/the-horoscope-you-read-every-morning-probably-isnt-yours-27b98237f431?source=rss-ed14b65382f0------2)
 - 📝 [Calm Before Chaos: What the Vedic Morning Routine Gets Right](https://medium.com/@debroyrishab/calm-before-chaos-what-the-vedic-morning-routine-gets-right-5ec4a3cab429?source=rss-ed14b65382f0------2)
 - 📝 [The Puja We Only Remember at Housewarmings](https://medium.com/@debroyrishab/the-puja-we-only-remember-at-housewarmings-83c9a767cbc3?source=rss-ed14b65382f0------2)
 - 📝 [Ganpati Bappa Morya: What Ganesh Chaturthi Teaches Us About Clearing Our Own Obstacles](https://medium.com/@debroyrishab/ganpati-bappa-morya-what-ganesh-chaturthi-teaches-us-about-clearing-our-own-obstacles-0b957da3c6e1?source=rss-ed14b65382f0------2)
-- 📝 [Why We Built Hasta: Bringing Ancient Wisdom Into Everyday Life](https://medium.com/@debroyrishab/why-we-built-hasta-bringing-ancient-wisdom-into-everyday-life-6d2a6969615e?source=rss-ed14b65382f0------2)
-- 📝 [What It Means to Build in a Sensitive Domain](https://medium.com/@debroyrishab/what-it-means-to-build-in-a-sensitive-domain-7b411d2b6015?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
+- 📝 [Why We Built Hasta: Bringing Ancient Wisdom Into Everyday Life](https://medium.com/@debroyrishab/why-we-built-hasta-bringing-ancient-wisdom-into-everyday-life-6d2a6969615e?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
 
 <sub>More on <b><a href="https://medium.com/@debroyrishab">Medium → @debroyrishab</a></b></sub>
 
