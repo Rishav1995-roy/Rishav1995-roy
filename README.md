@@ -137,12 +137,21 @@ Open To: founding-engineer roles, collaborations, and bold problems
 <table><tr>
 <td valign="top" width="50%">
 
+#### [fde_preparation_set](https://github.com/Rishav1995-roy/fde_preparation_set)
+No description provided.
+
+<sub>`Python` · ⭐ 0 · 🍴 0</sub>
+
+</td>
+<td valign="top" width="50%">
+
 #### [flicktvassignment](https://github.com/Rishav1995-roy/flicktvassignment)
 Cinematic wallet intro screen in pure Flutter - CustomPainter animations, confetti &amp; a 3D wallet, zero third-party packages.
 
 <sub>`Dart` · ⭐ 0 · 🍴 0</sub>
 
 </td>
+</tr><tr>
 <td valign="top" width="50%">
 
 #### [Local-Listings-Reviews-Engine](https://github.com/Rishav1995-roy/Local-Listings-Reviews-Engine)
@@ -151,7 +160,6 @@ Production-ready REST API to discover &amp; review local places - Node.js/TS/Exp
 <sub>`TypeScript` · ⭐ 1 · 🍴 0</sub>
 
 </td>
-</tr><tr>
 <td valign="top" width="50%">
 
 #### [ecom_demo_project](https://github.com/Rishav1995-roy/ecom_demo_project)
@@ -160,6 +168,7 @@ Cross-platform e-commerce app in Flutter - product catalog, browsing &amp; cart 
 <sub>`Dart` · ⭐ 0 · 🍴 0</sub>
 
 </td>
+</tr><tr>
 <td valign="top" width="50%">
 
 #### [expanse-tracker](https://github.com/Rishav1995-roy/expanse-tracker)
@@ -168,21 +177,12 @@ Cross-platform expense tracker in Flutter - log, categorize &amp; visualize spen
 <sub>`Dart` · ⭐ 1 · 🍴 0</sub>
 
 </td>
-</tr><tr>
 <td valign="top" width="50%">
 
 #### [auto_height_webview](https://github.com/Rishav1995-roy/auto_height_webview)
 Flutter package that auto-sizes a WebView to its HTML content on iOS, Android &amp; Web - JS injection with live content-change detection.
 
 <sub>`Dart` · ⭐ 3 · 🍴 0</sub>
-
-</td>
-<td valign="top" width="50%">
-
-#### [object-detection](https://github.com/Rishav1995-roy/object-detection)
-Real-time object detection in Flutter using native ML Kit via platform channels - no third-party detection packages.
-
-<sub>`C++` · ⭐ 0 · 🍴 0</sub>
 
 </td>
 </tr></table>
