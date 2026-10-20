@@ -187,7 +187,7 @@ Flutter package that auto-sizes a WebView to its HTML content on iOS, Android &a
 </td>
 </tr></table>
 
-<sub>Last updated: 2026-10-19 · auto-generated from public repositories.</sub>
+<sub>Last updated: 2026-10-20 · auto-generated from public repositories.</sub>
 <!-- PROJECTS:END -->
 
 <p align="center">
