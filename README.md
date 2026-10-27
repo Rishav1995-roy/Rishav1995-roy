@@ -137,6 +137,23 @@ Open To: founding-engineer roles, collaborations, and bold problems
 <table><tr>
 <td valign="top" width="50%">
 
+#### [cas_parser](https://github.com/Rishav1995-roy/cas_parser)
+No description provided.
+
+<sub>`Dart` · ⭐ 0 · 🍴 0</sub>
+
+</td>
+<td valign="top" width="50%">
+
+#### [xirr](https://github.com/Rishav1995-roy/xirr)
+No description provided.
+
+<sub>`Dart` · ⭐ 0 · 🍴 0</sub>
+
+</td>
+</tr><tr>
+<td valign="top" width="50%">
+
 #### [auto_height_webview](https://github.com/Rishav1995-roy/auto_height_webview)
 Flutter package that auto-sizes a WebView to its HTML content on iOS, Android &amp; Web - JS injection with live content-change detection.
 
@@ -166,23 +183,6 @@ Cinematic wallet intro screen in pure Flutter - CustomPainter animations, confet
 Production-ready REST API to discover &amp; review local places - Node.js/TS/Express/PostgreSQL with AI review moderation (BullMQ), pg_trgm dedupe, ranked feeds &amp; S3 uploads.
 
 <sub>`TypeScript` · ⭐ 1 · 🍴 0</sub>
-
-</td>
-</tr><tr>
-<td valign="top" width="50%">
-
-#### [ecom_demo_project](https://github.com/Rishav1995-roy/ecom_demo_project)
-Cross-platform e-commerce app in Flutter - product catalog, browsing &amp; cart flows running on mobile, web and desktop.
-
-<sub>`Dart` · ⭐ 0 · 🍴 0</sub>
-
-</td>
-<td valign="top" width="50%">
-
-#### [expanse-tracker](https://github.com/Rishav1995-roy/expanse-tracker)
-Cross-platform expense tracker in Flutter - log, categorize &amp; visualize spending across mobile, web and desktop.
-
-<sub>`Dart` · ⭐ 1 · 🍴 0</sub>
 
 </td>
 </tr></table>
