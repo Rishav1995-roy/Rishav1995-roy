@@ -162,27 +162,27 @@ Flutter package that auto-sizes a WebView to its HTML content on iOS, Android &a
 </td>
 <td valign="top" width="50%">
 
-#### [fde_preparation_set](https://github.com/Rishav1995-roy/fde_preparation_set)
-No description provided.
-
-<sub>`Python` · ⭐ 0 · 🍴 0</sub>
-
-</td>
-</tr><tr>
-<td valign="top" width="50%">
-
 #### [flicktvassignment](https://github.com/Rishav1995-roy/flicktvassignment)
 Cinematic wallet intro screen in pure Flutter - CustomPainter animations, confetti &amp; a 3D wallet, zero third-party packages.
 
 <sub>`Dart` · ⭐ 0 · 🍴 0</sub>
 
 </td>
+</tr><tr>
 <td valign="top" width="50%">
 
 #### [Local-Listings-Reviews-Engine](https://github.com/Rishav1995-roy/Local-Listings-Reviews-Engine)
 Production-ready REST API to discover &amp; review local places - Node.js/TS/Express/PostgreSQL with AI review moderation (BullMQ), pg_trgm dedupe, ranked feeds &amp; S3 uploads.
 
 <sub>`TypeScript` · ⭐ 1 · 🍴 0</sub>
+
+</td>
+<td valign="top" width="50%">
+
+#### [ecom_demo_project](https://github.com/Rishav1995-roy/ecom_demo_project)
+Cross-platform e-commerce app in Flutter - product catalog, browsing &amp; cart flows running on mobile, web and desktop.
+
+<sub>`Dart` · ⭐ 0 · 🍴 0</sub>
 
 </td>
 </tr></table>
