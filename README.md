@@ -13,7 +13,6 @@ I take products from idea to production: Flutter apps, Node/TypeScript and Pytho
 - **Hasta AI** (founder) - AI Vedic astrology app, live on Google Play. Flutter, FastAPI, PostgreSQL, Redis, Claude (chat and vision).
   [hastaai.in](https://hastaai.in) · [Google Play](https://play.google.com/store/apps/details?id=in.hasta)
 - **[Koshex](https://koshex.com)** (lead mobile engineer) - SEBI-compliant investing app with 500K+ downloads. Mutual funds, gold, KYC and payments, built in Flutter with BLoC.
-- **FIA** (current role) - AI-powered research platform for institutional investors. React 19 and TypeScript.
 
 ### Open source
 
