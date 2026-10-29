@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 /**
- * Auto-updates the "Latest projects" section of the profile README.
+ * Auto-updates the "Open source" section of the profile README.
  *
  * Behaviour:
+ *   - Only repos in the FEATURED allowlist are considered.
  *   - PUBLIC repos  -> rendered as linked project cards (name, description, stars, language).
  *   - PRIVATE repos -> skipped by default. If SHOW_PRIVATE=true AND a GH_PAT secret with
  *                      `repo` scope is provided, they are listed as plain "gist-style" text
@@ -20,11 +21,24 @@ const USERNAME = process.env.GH_USERNAME || 'Rishav1995-roy';
 const SHOW_PRIVATE = String(process.env.SHOW_PRIVATE || 'false').toLowerCase() === 'true';
 const PAT = process.env.GH_PAT || '';
 const TOKEN = process.env.GITHUB_TOKEN || '';
-const MAX_PROJECTS = Number(process.env.MAX_PROJECTS || 6);
+const MAX_PROJECTS = Number(process.env.MAX_PROJECTS || 4);
 const README_PATH = path.resolve(__dirname, '..', 'README.md');
 
 const START = '<!-- PROJECTS:START -->';
 const END = '<!-- PROJECTS:END -->';
+
+/**
+ * Explicit allowlist of repos shown in the "Open source" block, in display order.
+ * Only repos named here are ever rendered (and only if public, non-fork, non-archived),
+ * so a repo that is public for a while can never leak onto the profile automatically.
+ * To feature another repo, add its exact name here (and an entry in OVERRIDES if wanted).
+ */
+const FEATURED = [
+  'auto_height_webview',
+  'Local-Listings-Reviews-Engine',
+  'flicktvassignment',
+  'object-detection',
+];
 
 /**
  * Curated one-line descriptions. These take precedence over the GitHub
@@ -32,29 +46,14 @@ const END = '<!-- PROJECTS:END -->';
  * Add a repo name here any time you want to control how it's presented.
  */
 const OVERRIDES = {
+  auto_height_webview:
+    'Flutter widget that sizes a WebView to its HTML content on Android, iOS, macOS and Web - JS injection with live content-change detection. Published on pub.dev.',
+  'Local-Listings-Reviews-Engine':
+    'REST API to discover & review local places - Node.js/TypeScript/Express/PostgreSQL with AI review moderation (BullMQ), pg_trgm dedupe, ranked feeds & S3 uploads.',
   flicktvassignment:
     'Cinematic wallet intro screen in pure Flutter - CustomPainter animations, confetti & a 3D wallet, zero third-party packages.',
-  'Local-Listings-Reviews-Engine':
-    'Production-ready REST API to discover & review local places - Node.js/TS/Express/PostgreSQL with AI review moderation (BullMQ), pg_trgm dedupe, ranked feeds & S3 uploads.',
-  ecom_demo_project:
-    'Cross-platform e-commerce app in Flutter - product catalog, browsing & cart flows running on mobile, web and desktop.',
-  'expanse-tracker':
-    'Cross-platform expense tracker in Flutter - log, categorize & visualize spending across mobile, web and desktop.',
-  auto_height_webview:
-    'Flutter package that auto-sizes a WebView to its HTML content on iOS, Android & Web - JS injection with live content-change detection.',
   'object-detection':
     'Real-time object detection in Flutter using native ML Kit via platform channels - no third-party detection packages.',
-  'demo-product-app':
-    'Product showcase app - browse, search and favorite products.',
-  carasouel:
-    'Flutter dating app - swipeable profile cards, Google Sign-In auth and a saved-favorites section.',
-  'freelance-demo':
-    'Cross-platform Flutter app built for a freelance client engagement.',
-  sitter:
-    'Flutter mobile app (iOS/Android) with native Swift & Kotlin integration.',
-  wokk_final_build_client:
-    'Production client build delivered for the Wokk project (Java / Android).',
-  ZivameApplication: 'Native Android application built with Kotlin.',
 };
 
 async function gh(url, token) {
@@ -72,15 +71,16 @@ async function gh(url, token) {
   return res.json();
 }
 
-/** Public repos owned by the user, most recently pushed first. */
+/** Public repos from the FEATURED allowlist, in allowlist order. */
 async function getPublicRepos() {
   const repos = await gh(
     `https://api.github.com/users/${USERNAME}/repos?per_page=100&sort=pushed&type=owner`,
     TOKEN
   );
-  return repos
-    .filter((r) => !r.fork && !r.archived && r.name.toLowerCase() !== USERNAME.toLowerCase())
-    .filter((r) => !r.private);
+  const byName = new Map(repos.map((r) => [r.name, r]));
+  return FEATURED.map((name) => byName.get(name)).filter(
+    (r) => r && !r.fork && !r.archived && !r.private
+  );
 }
 
 /** Private repos owned by the user (only when explicitly enabled with a PAT). */
@@ -147,7 +147,7 @@ function buildSection(publicRepos, privateRepos) {
 
   lines.push('');
   lines.push(
-    `<sub>Last updated: ${new Date().toISOString().slice(0, 10)} · auto-generated from public repositories.</sub>`
+    `<sub>Last updated: ${new Date().toISOString().slice(0, 10)} · auto-generated from selected public repositories.</sub>`
   );
   return lines.join('\n');
 }
