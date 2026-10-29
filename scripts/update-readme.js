@@ -36,7 +36,7 @@ const END = '<!-- PROJECTS:END -->';
 const FEATURED = [
   'auto_height_webview',
   'Local-Listings-Reviews-Engine',
-  'flicktvassignment',
+  'flutter-wallet-intro-animation',
   'object-detection',
 ];
 
@@ -50,7 +50,7 @@ const OVERRIDES = {
     'Flutter widget that sizes a WebView to its HTML content on Android, iOS, macOS and Web - JS injection with live content-change detection. Published on pub.dev.',
   'Local-Listings-Reviews-Engine':
     'REST API to discover & review local places - Node.js/TypeScript/Express/PostgreSQL with AI review moderation (BullMQ), pg_trgm dedupe, ranked feeds & S3 uploads.',
-  flicktvassignment:
+  'flutter-wallet-intro-animation':
     'Cinematic wallet intro screen in pure Flutter - CustomPainter animations, confetti & a 3D wallet, zero third-party packages.',
   'object-detection':
     'Real-time object detection in Flutter using native ML Kit via platform channels - no third-party detection packages.',

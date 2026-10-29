@@ -40,7 +40,7 @@ REST API to discover &amp; review local places - Node.js/TypeScript/Express/Post
 </tr><tr>
 <td valign="top" width="50%">
 
-#### [flicktvassignment](https://github.com/Rishav1995-roy/flicktvassignment)
+#### [flutter-wallet-intro-animation](https://github.com/Rishav1995-roy/flutter-wallet-intro-animation)
 Cinematic wallet intro screen in pure Flutter - CustomPainter animations, confetti &amp; a 3D wallet, zero third-party packages.
 
 <sub>`Dart` · ⭐ 0 · 🍴 0</sub>
