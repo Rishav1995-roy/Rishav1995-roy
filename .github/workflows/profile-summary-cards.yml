@@ -4,14 +4,10 @@ name: Profile Summary Cards
 # productive time) and commits them to ./profile-summary-card-output/.
 # Because the images live in this repo, they're served by GitHub and never
 # rate-limit or break (unlike live third-party card services).
+# The README no longer embeds these cards, so the daily schedule is off.
+# Run manually from the Actions tab if they are ever needed again.
 on:
-  schedule:
-    - cron: '0 18 * * *' # once a day
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/profile-summary-cards.yml'
 
 permissions:
   contents: write
@@ -25,8 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-cards
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # release
         env:
           # PROFILE_TOKEN = a PAT with `repo` + `read:user` scopes so the cards
           # can count private-repo contributions. Falls back to the built-in
