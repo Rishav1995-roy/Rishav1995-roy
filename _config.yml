@@ -10,6 +10,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# The Search Console verification file must stay published, but not in the sitemap.
+defaults:
+  - scope:
+      path: google5a05e2f0a2d90a5b.html
+    values:
+      sitemap: false
+
 # Keep repo internals out of the built site.
 exclude:
   - scripts/
