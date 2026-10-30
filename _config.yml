@@ -1,0 +1,18 @@
+# GitHub Pages (Jekyll) settings for https://rishav1995-roy.github.io/Rishav1995-roy/
+# The page itself is README.md; these only add a proper title/description and a sitemap for Google.
+title: Rishav Deb Roy
+description: Full-stack engineer building Flutter apps, open-source pub.dev packages and backend APIs.
+url: https://rishav1995-roy.github.io
+baseurl: /Rishav1995-roy
+author: Rishav Deb Roy
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Keep repo internals out of the built site.
+exclude:
+  - scripts/
+  - CLAUDE.md
+  - .vscode/
+  - .prettierignore
