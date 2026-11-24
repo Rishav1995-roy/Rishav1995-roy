@@ -74,10 +74,10 @@ Real-time object detection in Flutter using native ML Kit via platform channels 
 ### Writing on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 [12 Flutter packages I built and open-sourced](https://medium.com/@debroyrishab/12-flutter-packages-i-built-and-open-sourced-019f0a62f3e2?source=rss-ed14b65382f0------2)
 - 📝 [The Horoscope You Read Every Morning Probably Isn’t Yours](https://medium.com/@debroyrishab/the-horoscope-you-read-every-morning-probably-isnt-yours-27b98237f431?source=rss-ed14b65382f0------2)
 - 📝 [Calm Before Chaos: What the Vedic Morning Routine Gets Right](https://medium.com/@debroyrishab/calm-before-chaos-what-the-vedic-morning-routine-gets-right-5ec4a3cab429?source=rss-ed14b65382f0------2)
 - 📝 [The Puja We Only Remember at Housewarmings](https://medium.com/@debroyrishab/the-puja-we-only-remember-at-housewarmings-83c9a767cbc3?source=rss-ed14b65382f0------2)
-- 📝 [Ganpati Bappa Morya: What Ganesh Chaturthi Teaches Us About Clearing Our Own Obstacles](https://medium.com/@debroyrishab/ganpati-bappa-morya-what-ganesh-chaturthi-teaches-us-about-clearing-our-own-obstacles-0b957da3c6e1?source=rss-ed14b65382f0------2)
-- 📝 [Why We Built Hasta: Bringing Ancient Wisdom Into Everyday Life](https://medium.com/@debroyrishab/why-we-built-hasta-bringing-ancient-wisdom-into-everyday-life-6d2a6969615e?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
+- 📝 [Ganpati Bappa Morya: What Ganesh Chaturthi Teaches Us About Clearing Our Own Obstacles](https://medium.com/@debroyrishab/ganpati-bappa-morya-what-ganesh-chaturthi-teaches-us-about-clearing-our-own-obstacles-0b957da3c6e1?source=rss-ed14b65382f0------2)<!-- BLOG-POST-LIST:END -->
 
 <sub>More on <a href="https://medium.com/@debroyrishab">Medium</a>.</sub>
